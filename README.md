@@ -1,5 +1,5 @@
 # reutersUK
-The data set retrieved from uk.reuters.com between November 13 and October 13, 2020. It contains news text from 14 different categories. The data set is an imbalanced one where each class contains different number of news documents. Below lists the categories and the number of document in the related category.
+The data set (reutersUK.rar) retrieved from uk.reuters.com between November 13 and October 13, 2020. It contains news text from 14 different categories. The data set is an imbalanced one where each class contains different number of news documents. Below lists the categories and the number of document in the related category.
 
  1. aerospace-defence - 114 documents
  2. artsnews - 32 documents
